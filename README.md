@@ -1,1 +1,7 @@
-# docker
+# Docker
+
+Dockerfiles repos
+
+* bwa
+* samtools
+* spades
